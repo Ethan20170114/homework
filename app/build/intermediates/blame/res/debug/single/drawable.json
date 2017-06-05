@@ -1,0 +1,338 @@
+[
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calculator_btn_selector_background_style.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\calculator_btn_selector_background_style.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_btn_pressed_background_style.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\setting_btn_pressed_background_style.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_input_background_enable.png",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\tab_input_background_enable.png"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\event_toggle_btn_checked_background_style.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\event_toggle_btn_checked_background_style.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_chart_background_enable.png",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\tab_chart_background_enable.png"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner_dropdown_selector_background_style.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\spinner_dropdown_selector_background_style.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_rate.png",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\btn_rate.png"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\query_panel_btn_selector_background_style.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\query_panel_btn_selector_background_style.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hide_show_btn_up.png",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\hide_show_btn_up.png"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_btn_selector_background_style.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\common_btn_selector_background_style.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cat_house.png",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\cat_house.png"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\budget_bar.png",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\budget_bar.png"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\input_panel_style.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\input_panel_style.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_background_style.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\list_background_style.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\query_panel_style.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\query_panel_style.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cat_food.png",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\cat_food.png"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_divider.png",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\list_divider.png"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_background_style.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\setting_background_style.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chart_background_style.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\chart_background_style.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_chart_background_disable.png",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\tab_chart_background_disable.png"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add_sub_category_btn.png",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\add_sub_category_btn.png"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_on.png",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\btn_on.png"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\event_toggle_btn_background_style.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\event_toggle_btn_background_style.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_setting_background_style.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\category_setting_background_style.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_empty.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\tab_empty.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_input_background_disable.png",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\tab_input_background_disable.png"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calendar.png",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\calendar.png"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_edit.png",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\btn_edit.png"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\up_btn.png",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\up_btn.png"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_setting.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\tab_setting.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\command_btn_selector_background_style.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\command_btn_selector_background_style.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calculator_btn_background_style.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\calculator_btn_background_style.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hide_show_btn_down.png",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\hide_show_btn_down.png"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\help_1.png",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\help_1.png"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\event_toggle_btn_selector_background_style.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\event_toggle_btn_selector_background_style.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner_dropdown_background_style.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\spinner_dropdown_background_style.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_empty_96_x_72.png",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\btn_empty_96_x_72.png"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_btn_background_style.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\common_btn_background_style.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_empty_background_enable.png",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\tab_empty_background_enable.png"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_input.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\tab_input.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_empty_background_disable.png",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\tab_empty_background_disable.png"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_setting_background_enable.png",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\tab_setting_background_enable.png"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\empty_background_36x36_96.png",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\empty_background_36x36_96.png"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\budget_setting_background_style.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\budget_setting_background_style.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\budget_expense_bar.png",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\budget_expense_bar.png"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calculator_btn_pressed_background_style.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\calculator_btn_pressed_background_style.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_on_off.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\btn_on_off.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add_main_category_btn.png",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\add_main_category_btn.png"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\input_background_style.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\input_background_style.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cat_cloth.png",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\cat_cloth.png"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_category.png",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\btn_category.png"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_budget.png",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\btn_budget.png"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_btn_selector_background_style.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\setting_btn_selector_background_style.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_bar.png",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\tab_bar.png"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_btn_background_empty_style.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\setting_btn_background_empty_style.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_event.png",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\btn_event.png"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_right.png",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\arrow_right.png"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_confirm.png",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\btn_confirm.png"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_btn_background_style.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\setting_btn_background_style.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_setting_background_disable.png",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\tab_setting_background_disable.png"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\command_btn_pressed_background_style.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\command_btn_pressed_background_style.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\query_panel_btn_pressed_background_style.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\query_panel_btn_pressed_background_style.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_left.png",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\arrow_left.png"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_collapse.png",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\btn_collapse.png"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_list_background_disable.png",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\tab_list_background_disable.png"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\today_btn.png",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\today_btn.png"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\event_setting_background_style.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\event_setting_background_style.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_list_background_enable.png",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\tab_list_background_enable.png"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calendar_panel_style.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\calendar_panel_style.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\query_panel_toggle_btn_background_style.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\query_panel_toggle_btn_background_style.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_expand.png",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\btn_expand.png"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\query_panel_btn_background_style.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\query_panel_btn_background_style.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_del.png",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\btn_del.png"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_btn_pressed_background_style.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\common_btn_pressed_background_style.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_list.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\tab_list.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_chart.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\tab_chart.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\query_panel_toggle_btn_selector_background_style.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\query_panel_toggle_btn_selector_background_style.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_off.png",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\btn_off.png"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner_dropdown_pressed_background_style.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\spinner_dropdown_pressed_background_style.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\query_panel_toggle_btn_checked_background_style.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\query_panel_toggle_btn_checked_background_style.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\command_btn_background_style.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\command_btn_background_style.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_cancel.png",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\btn_cancel.png"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\down_btn.png",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\drawable\\down_btn.png"
+    }
+]

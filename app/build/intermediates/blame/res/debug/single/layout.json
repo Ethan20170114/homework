@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_update_category.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\layout\\activity_update_category.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_setting_background.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\layout\\tab_setting_background.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_input_background.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\layout\\tab_input_background.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calculator_layout.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\layout\\calculator_layout.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_chart.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\layout\\fragment_chart.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_view.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\layout\\list_item_view.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\simple_spinner_dropdown_item.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\layout\\simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\query_panel_layout.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\layout\\query_panel_layout.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_empty_background.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\layout\\tab_empty_background.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\category_child.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\layout\\category_child.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_help.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\layout\\activity_help.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fsz_date_picker.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\layout\\fsz_date_picker.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_input.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\layout\\fragment_input.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_setting.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\layout\\fragment_setting.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_update_budget.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\layout\\activity_update_budget.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_list.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\layout\\fragment_list.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_chart_background.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\layout\\tab_chart_background.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_accounting.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\layout\\activity_accounting.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_view_event.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\layout\\list_item_view_event.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\category_parent.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\layout\\category_parent.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_update_event.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\layout\\activity_update_event.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_list_background.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\layout\\tab_list_background.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_accounting.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\layout\\fragment_accounting.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\simple_spinner_item.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\layout\\simple_spinner_item.xml"
+    }
+]

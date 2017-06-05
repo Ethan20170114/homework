@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="activity_background">#0C5B82</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="calculator_panel_btn_pressed_style_solid">#6AA48F</color>
+    <color name="calculator_panel_btn_pressed_style_stroke">#F9F9F9</color>
+    <color name="calculator_panel_btn_style_solid">#BCDCB7</color>
+    <color name="calculator_panel_btn_style_stroke">#6AA48F</color>
+    <color name="chart_background_style_solid">#BCDCB7</color>
+    <color name="chart_background_style_stroke">#BCDCB7</color>
+    <color name="command_btn_pressed_style_solid">#0C5B82</color>
+    <color name="command_btn_pressed_style_stroke">#F9F9F9</color>
+    <color name="command_btn_style_solid">#A0CFD3</color>
+    <color name="command_btn_style_stroke">#0C5B82</color>
+    <color name="common_btn_pressed_style_solid">#0C5B82</color>
+    <color name="common_btn_pressed_style_stroke">#F9F9F9</color>
+    <color name="common_btn_style_solid">#FFA0CFD3</color>
+    <color name="common_btn_style_stroke">#0C5B82</color>
+    <color name="event_setting_background_style_solid">#BCDCB7</color>
+    <color name="event_setting_background_style_stroke">#BCDCB7</color>
+    <color name="event_toggle_btn_background_style_solid">#95AD91</color>
+    <color name="event_toggle_btn_checked_background_style_solid">#70C661</color>
+    <color name="input_background_style_solid">#BCDCB7</color>
+    <color name="input_background_style_stroke">#BCDCB7</color>
+    <color name="input_panel_style_solid">#B4D1C6</color>
+    <color name="input_panel_style_stroke">#6AA48F</color>
+    <color name="list_background_style_solid">#BCDCB7</color>
+    <color name="list_background_style_stroke">#BCDCB7</color>
+    <color name="query_panel_btn_pressed_style_solid">#0C5B82</color>
+    <color name="query_panel_btn_pressed_style_stroke">#F9F9F9</color>
+    <color name="query_panel_btn_style_solid">#FFA0CFD3</color>
+    <color name="query_panel_btn_style_stroke">#0C5B82</color>
+    <color name="query_panel_style_solid">#B4D1C6</color>
+    <color name="query_panel_style_stroke">#6AA48F</color>
+    <color name="setting_background">#BCDCB7</color>
+    <color name="setting_background_style_solid">#BCDCB7</color>
+    <color name="setting_background_style_stroke">#BCDCB7</color>
+    <color name="setting_btn_pressed_style_solid">#0C5B82</color>
+    <color name="setting_btn_pressed_style_stroke">#F9F9F9</color>
+    <color name="setting_btn_style_solid">#A0CFD3</color>
+    <color name="setting_btn_style_stroke">#0C5B82</color>
+    <color name="spinner_dropdown_pressed_style_solid">#6AA48F</color>
+    <color name="spinner_dropdown_pressed_style_stroke">#F9F9F9</color>
+    <color name="spinner_dropdown_style_solid">#6AA48F</color>
+    <color name="spinner_dropdown_style_stroke">#6AA48F</color>
+    <declare-styleable name="ButtonBarContainerTheme"><attr format="reference" name="metaButtonBarStyle"/><attr format="reference" name="metaButtonBarButtonStyle"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_new_category_title">New Category</string>
+    <string name="action_new_event_title">New Tag</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_update_category_title">Update Category</string>
+    <string name="all">All</string>
+    <string name="app_name">Easy Money</string>
+    <string name="bar_chart_center_text_format">Total : %s</string>
+    <string name="btn_add_text">Add</string>
+    <string name="btn_back_text">Back</string>
+    <string name="btn_cancel_text">Cancel</string>
+    <string name="btn_confirm_text">Confirm</string>
+    <string name="btn_del_desc">Delete</string>
+    <string name="btn_delete_text">Delete</string>
+    <string name="btn_edit_desc">Edit</string>
+    <string name="cal_btn_0_text">0</string>
+    <string name="cal_btn_1_text">1</string>
+    <string name="cal_btn_2_text">2</string>
+    <string name="cal_btn_3_text">3</string>
+    <string name="cal_btn_4_text">4</string>
+    <string name="cal_btn_5_text">5</string>
+    <string name="cal_btn_6_text">6</string>
+    <string name="cal_btn_7_text">7</string>
+    <string name="cal_btn_8_text">8</string>
+    <string name="cal_btn_9_text">9</string>
+    <string name="cal_btn_cancel_text">Cancel</string>
+    <string name="cal_btn_clear_text">C</string>
+    <string name="cal_btn_confirm_text">Confirm</string>
+    <string name="cal_btn_divid_text">/</string>
+    <string name="cal_btn_dot_text">.</string>
+    <string name="cal_btn_equal_text">=</string>
+    <string name="cal_btn_insert_text">Add</string>
+    <string name="cal_btn_minus_text">-</string>
+    <string name="cal_btn_plus_text">+</string>
+    <string name="cal_btn_times_text">*</string>
+    <string name="calendar_btn_desc">Calendar</string>
+    <string name="cancel">Canceled !</string>
+    <string name="cat_clothing">Clothing</string>
+    <string name="cat_food">Food</string>
+    <string name="cat_food_dine_out">Dine out</string>
+    <string name="cat_food_drinks">Drinks</string>
+    <string name="cat_food_food_ingredients">Food ingredients</string>
+    <string name="cat_housing">Housing</string>
+    <string name="cat_others">Others</string>
+    <string name="cat_recreation">Recreation</string>
+    <string name="cat_traffic">Traffic</string>
+    <string name="category_add_child_button_text">Add Sub</string>
+    <string name="category_add_parent_button_text">Add Main</string>
+    <string name="category_down_button_text">Down</string>
+    <string name="category_spinner_text">Category</string>
+    <string name="category_up_button_text">Up</string>
+    <string name="comment">Input comment here</string>
+    <string name="default_category">Default</string>
+    <string name="default_date">2014-01-01</string>
+    <string name="del_dialog_title">Delete</string>
+    <string name="edit_text_new_event">New Tag</string>
+    <string name="edit_text_new_main_category">New Category</string>
+    <string name="edit_text_new_sub_category">New Category</string>
+    <string name="empty"/>
+    <string name="event_spinner_text">Tag</string>
+    <string name="help_1">Help 1</string>
+    <string name="help_2">Help 2</string>
+    <string name="input_new_event_here">Input new tag here</string>
+    <string name="insert_transaction_success">Add cost successful !</string>
+    <string name="left_btn_desc">-1 Day</string>
+    <string name="monthly_budget_text">Monthly Budget</string>
+    <string name="query_all_btn_text">All</string>
+    <string name="query_day_btn_text">Day</string>
+    <string name="query_hide_btn_text">Query Panel</string>
+    <string name="query_month_btn_text">Month</string>
+    <string name="query_week_btn_text">Week</string>
+    <string name="query_year_btn_text">Year</string>
+    <string name="remove_category">Remove</string>
+    <string name="remove_category_confirm_message">Are you sure you want to remove category</string>
+    <string name="remove_category_msg_0">Category %s is removed!</string>
+    <string name="remove_category_msg_1">All the cost belong to[%s] is now update to category[Default]!</string>
+    <string name="right_btn_desc">+1 Day</string>
+    <string name="setting_btn_budget_text">Budget</string>
+    <string name="setting_btn_category_text">Category</string>
+    <string name="setting_btn_event_disable_text">Disable</string>
+    <string name="setting_btn_event_enable_text">Enable</string>
+    <string name="setting_btn_event_text">Tag</string>
+    <string name="setting_btn_help_text">Help</string>
+    <string name="setting_btn_rate_text">Rate app</string>
+    <string name="tab_chart">Chart</string>
+    <string name="tab_input">Input</string>
+    <string name="tab_list">List</string>
+    <string name="tab_setting">Setting</string>
+    <string name="title_activity_help">Help</string>
+    <string name="title_activity_update_budget">Budget</string>
+    <string name="title_activity_update_category">Category</string>
+    <string name="title_activity_update_event">Tag</string>
+    <string name="title_activity_update_transaction">Update</string>
+    <string name="today_btn_desc">Now</string>
+    <string name="update_budget_success">Update budget successful!</string>
+    <string name="update_category">Update</string>
+    <string name="update_transaction_success">Update cost successful !</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        <item name="android:actionBarTabStyle">@style/MyActionBarTabStyle</item>
+        <item name="android:actionBarTabBarStyle">@style/MyActionBarTabBarStyle</item>
+    </style>
+    <style name="ButtonBar">
+        <item name="android:paddingLeft">2dp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:paddingRight">2dp</item>
+        <item name="android:paddingBottom">0dp</item>
+        <item name="android:background">@android:drawable/bottom_bar</item>
+    </style>
+    <style name="ButtonBarButton"/>
+    <style name="FullscreenTheme" parent="android:Theme.NoTitleBar">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowBackground">@null</item>
+        <item name="metaButtonBarStyle">@style/ButtonBar</item>
+        <item name="metaButtonBarButtonStyle">@style/ButtonBarButton</item>
+    </style>
+    <style name="MyActionBarTabBarStyle" parent="android:style/Widget.Holo.Light.ActionBar.TabBar">
+        <item name="android:background">@drawable/tab_bar</item>
+        <item name="android:actionBarSize">30dp</item>
+        <item name="android:height">30dp</item>
+    </style>
+    <style name="MyActionBarTabStyle" parent="android:style/Widget.Holo.Light.ActionBar.TabBar">
+        <item name="android:paddingLeft">0dp</item>
+        <item name="android:paddingRight">0dp</item>
+        <item name="android:paddingTop">0dp</item>
+        <item name="android:paddingBottom">0dp</item>
+        <item name="android:actionBarSize">30dp</item>
+        <item name="android:height">30dp</item>
+        <item name="android:dividerPadding">0dp</item>
+    </style>
+    <style name="spinnerDropDownItemStyle" parent="android:TextAppearance.Widget.TextView.SpinnerItem"/>
+    <style name="spinnerItemStyle" parent="android:Widget.TextView.SpinnerItem"/>
+</resources>

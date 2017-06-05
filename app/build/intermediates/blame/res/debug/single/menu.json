@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\accounting.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\menu\\accounting.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\update_event.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\menu\\update_event.xml"
+    },
+    {
+        "merged": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_update_budget.xml",
+        "source": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\menu\\menu_update_budget.xml"
+    }
+]

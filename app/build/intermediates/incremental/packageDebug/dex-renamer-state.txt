@@ -1,0 +1,7 @@
+#Mon Jun 05 22:37:14 CST 2017
+base.0=E\:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e3bc6d01b84c64ba7d002d441790c3165bdd6e8c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ac1515d462409703eefbd1e950e6f5778da24bf2\\classes.dex
+base.1=E\:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ac1515d462409703eefbd1e950e6f5778da24bf2
+file.0=E\:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e3bc6d01b84c64ba7d002d441790c3165bdd6e8c\\classes.dex

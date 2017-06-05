@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml:2:1-52:12
+	package
+		ADDED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml:6:5-32
+		INJECTED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml:5:5-29
+		INJECTED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml:4:5-35
+uses-sdk
+ADDED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml:11:5-50:19
+	android:label
+		ADDED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml:15:9-41
+	android:allowClearUserData
+		ADDED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml:13:9-42
+	android:allowBackup
+		ADDED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml:14:9-38
+	android:theme
+		ADDED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml:17:9-40
+	android:name
+		ADDED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml:16:9-45
+activity#com.fsz570.easyaccounting.AccountingActivity
+ADDED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml:18:9-27:20
+	android:screenOrientation
+		ADDED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml:21:13-49
+	android:label
+		ADDED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml:20:13-45
+	android:name
+		ADDED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml:19:13-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml:25:27-74
+activity#com.fsz570.easyaccounting.UpdateTransactionActivity
+ADDED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml:28:9-31:20
+	android:label
+		ADDED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml:30:13-70
+	android:name
+		ADDED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml:29:13-54
+activity#com.fsz570.easyaccounting.UpdateEventActivity
+ADDED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml:32:9-35:20
+	android:label
+		ADDED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml:34:13-64
+	android:name
+		ADDED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml:33:13-48
+activity#com.fsz570.easyaccounting.UpdateCategoryActivity
+ADDED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml:36:9-39:20
+	android:label
+		ADDED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml:38:13-67
+	android:name
+		ADDED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml:37:13-51
+activity#com.fsz570.easyaccounting.HelpActivity
+ADDED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml:40:9-45:20
+	android:label
+		ADDED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml:43:13-56
+	android:configChanges
+		ADDED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml:42:13-74
+	android:theme
+		ADDED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml:44:13-51
+	android:name
+		ADDED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml:41:13-41
+activity#com.fsz570.easyaccounting.UpdateBudgetActivity
+ADDED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml:46:9-49:20
+	android:label
+		ADDED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml:48:13-65
+	android:name
+		ADDED from E:\EasyAccounting_Android_Studio-master\app\src\main\AndroidManifest.xml:47:13-49

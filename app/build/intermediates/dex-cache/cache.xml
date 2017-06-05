@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\EasyAccounting_Android_Studio-master\app\libs\mpandroidchartlibrary-1-7-3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eae78ae84e836e9325e9934d885ccb5dc161d685">
+        <dex dex="E:\EasyAccounting_Android_Studio-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\mpandroidchartlibrary-1-7-3_e94c00fb9856b3157d7baba199c1cdb62055c5f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\EasyAccounting_Android_Studio-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="E:\EasyAccounting_Android_Studio-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e3bc6d01b84c64ba7d002d441790c3165bdd6e8c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\EasyAccounting_Android_Studio-master\app\libs\android-support-v13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="41c6fb0537e463f685d3235fc50d38dc540d6ece">
+        <dex dex="E:\EasyAccounting_Android_Studio-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v13_cb04b592ea37f21cf18e0f0a1a377cdcf083f7e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\EasyAccounting_Android_Studio-master\app\libs\mpandroidchartlibrary-1-7-3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eae78ae84e836e9325e9934d885ccb5dc161d685">
+        <dex dex="E:\EasyAccounting_Android_Studio-master\app\build\intermediates\pre-dexed\debug\mpandroidchartlibrary-1-7-3_e94c00fb9856b3157d7baba199c1cdb62055c5f9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\EasyAccounting_Android_Studio-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2ac90ab46244e779469bf33ce104db88f09b33b">
+        <dex dex="E:\EasyAccounting_Android_Studio-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ac1515d462409703eefbd1e950e6f5778da24bf2\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\EasyAccounting_Android_Studio-master\app\libs\android-support-v13.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="41c6fb0537e463f685d3235fc50d38dc540d6ece">
+        <dex dex="E:\EasyAccounting_Android_Studio-master\app\build\intermediates\pre-dexed\debug\android-support-v13_cb04b592ea37f21cf18e0f0a1a377cdcf083f7e3.jar" />
+    </item>
+
+</items>

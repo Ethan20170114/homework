@@ -1,0 +1,2869 @@
+[
+    {
+        "outputFile": "E:\\EasyAccounting_Android_Studio-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 53,
+                    "endOffset": 104
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 302,
+                        "endColumn": 53,
+                        "endOffset": 351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 109,
+                    "endColumn": 49,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 3393,
+                        "endColumn": 49,
+                        "endOffset": 3438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 159,
+                    "endColumn": 74,
+                    "endOffset": 229
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 2176,
+                        "endColumn": 74,
+                        "endOffset": 2246
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 234,
+                    "endColumn": 75,
+                    "endOffset": 305
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 2251,
+                        "endColumn": 75,
+                        "endOffset": 2322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 310,
+                    "endColumn": 66,
+                    "endOffset": 372
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 2041,
+                        "endColumn": 66,
+                        "endOffset": 2103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 377,
+                    "endColumn": 67,
+                    "endOffset": 440
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2108,
+                        "endColumn": 67,
+                        "endOffset": 2171
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 445,
+                    "endColumn": 62,
+                    "endOffset": 503
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 753,
+                        "endColumn": 62,
+                        "endOffset": 811
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 508,
+                    "endColumn": 63,
+                    "endOffset": 567
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 816,
+                        "endColumn": 63,
+                        "endOffset": 875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 572,
+                    "endColumn": 65,
+                    "endOffset": 633
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 2984,
+                        "endColumn": 65,
+                        "endOffset": 3045
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 638,
+                    "endColumn": 66,
+                    "endOffset": 700
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 3050,
+                        "endColumn": 66,
+                        "endOffset": 3112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 705,
+                    "endColumn": 57,
+                    "endOffset": 758
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 2867,
+                        "endColumn": 57,
+                        "endOffset": 2920
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 763,
+                    "endColumn": 58,
+                    "endOffset": 817
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 2925,
+                        "endColumn": 58,
+                        "endOffset": 2979
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 822,
+                    "endColumn": 64,
+                    "endOffset": 882
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1454,
+                        "endColumn": 64,
+                        "endOffset": 1514
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 887,
+                    "endColumn": 65,
+                    "endOffset": 948
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1519,
+                        "endColumn": 65,
+                        "endOffset": 1580
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 953,
+                    "endColumn": 58,
+                    "endOffset": 1007
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1337,
+                        "endColumn": 58,
+                        "endOffset": 1391
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1012,
+                    "endColumn": 57,
+                    "endOffset": 1065
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1396,
+                        "endColumn": 57,
+                        "endOffset": 1449
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1070,
+                    "endColumn": 70,
+                    "endOffset": 1136
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1044,
+                        "endColumn": 70,
+                        "endOffset": 1110
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1141,
+                    "endColumn": 71,
+                    "endOffset": 1208
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1115,
+                        "endColumn": 71,
+                        "endOffset": 1182
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1213,
+                    "endColumn": 73,
+                    "endOffset": 1282
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 2685,
+                        "endColumn": 73,
+                        "endOffset": 2754
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1287,
+                    "endColumn": 81,
+                    "endOffset": 1364
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 2759,
+                        "endColumn": 81,
+                        "endOffset": 2836
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1369,
+                    "endColumn": 62,
+                    "endOffset": 1427
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 440,
+                        "endColumn": 62,
+                        "endOffset": 498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1432,
+                    "endColumn": 63,
+                    "endOffset": 1491
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 503,
+                        "endColumn": 63,
+                        "endOffset": 562
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1496,
+                    "endColumn": 57,
+                    "endOffset": 1549
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1220,
+                        "endColumn": 57,
+                        "endOffset": 1273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1554,
+                    "endColumn": 58,
+                    "endOffset": 1608
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1278,
+                        "endColumn": 58,
+                        "endOffset": 1332
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1613,
+                    "endColumn": 61,
+                    "endOffset": 1670
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 597,
+                        "endColumn": 61,
+                        "endOffset": 654
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1675,
+                    "endColumn": 62,
+                    "endOffset": 1733
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 659,
+                        "endColumn": 62,
+                        "endOffset": 717
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1738,
+                    "endColumn": 69,
+                    "endOffset": 1803
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 1862,
+                        "endColumn": 69,
+                        "endOffset": 1927
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1808,
+                    "endColumn": 70,
+                    "endOffset": 1874
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 1932,
+                        "endColumn": 70,
+                        "endOffset": 1998
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1879,
+                    "endColumn": 63,
+                    "endOffset": 1938
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 1735,
+                        "endColumn": 63,
+                        "endOffset": 1794
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1943,
+                    "endColumn": 62,
+                    "endOffset": 2001
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 1799,
+                        "endColumn": 62,
+                        "endOffset": 1857
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2006,
+                    "endColumn": 57,
+                    "endOffset": 2059
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1618,
+                        "endColumn": 57,
+                        "endOffset": 1671
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2064,
+                    "endColumn": 58,
+                    "endOffset": 2118
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1676,
+                        "endColumn": 58,
+                        "endOffset": 1730
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2123,
+                    "endColumn": 52,
+                    "endOffset": 2171
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 356,
+                        "endColumn": 52,
+                        "endOffset": 404
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2176,
+                    "endColumn": 64,
+                    "endOffset": 2236
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 913,
+                        "endColumn": 64,
+                        "endOffset": 973
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2241,
+                    "endColumn": 65,
+                    "endOffset": 2302
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 978,
+                        "endColumn": 65,
+                        "endOffset": 1039
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2307,
+                    "endColumn": 65,
+                    "endOffset": 2368
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 3260,
+                        "endColumn": 65,
+                        "endOffset": 3321
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2373,
+                    "endColumn": 66,
+                    "endOffset": 2435
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 3326,
+                        "endColumn": 66,
+                        "endOffset": 3388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2440,
+                    "endColumn": 57,
+                    "endOffset": 2493
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 3143,
+                        "endColumn": 57,
+                        "endOffset": 3196
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2498,
+                    "endColumn": 58,
+                    "endOffset": 2552
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 3201,
+                        "endColumn": 58,
+                        "endOffset": 3255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2557,
+                    "endColumn": 70,
+                    "endOffset": 2623
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 2497,
+                        "endColumn": 70,
+                        "endOffset": 2563
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2628,
+                    "endColumn": 71,
+                    "endOffset": 2695
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 2568,
+                        "endColumn": 71,
+                        "endOffset": 2635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2700,
+                    "endColumn": 62,
+                    "endOffset": 2758
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 2370,
+                        "endColumn": 62,
+                        "endOffset": 2428
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2763,
+                    "endColumn": 63,
+                    "endOffset": 2822
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 2433,
+                        "endColumn": 63,
+                        "endOffset": 2492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3012,
+                    "endColumn": 57,
+                    "endOffset": 3065
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3070,
+                    "endColumn": 55,
+                    "endOffset": 3121
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3126,
+                    "endColumn": 66,
+                    "endOffset": 3188
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 4,
+                        "startOffset": 3919,
+                        "endColumn": 66,
+                        "endOffset": 3981
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3193,
+                    "endColumn": 58,
+                    "endOffset": 3247
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 3324,
+                        "endColumn": 58,
+                        "endOffset": 3378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3252,
+                    "endColumn": 52,
+                    "endOffset": 3300
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 317,
+                        "endColumn": 52,
+                        "endOffset": 365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3305,
+                    "endColumn": 72,
+                    "endOffset": 3373
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 3986,
+                        "endColumn": 72,
+                        "endOffset": 4054
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 3378,
+                    "endColumn": 35,
+                    "endOffset": 3409
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 638,
+                        "endColumn": 35,
+                        "endOffset": 669
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3414,
+                    "endColumn": 47,
+                    "endOffset": 3457
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 47,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3462,
+                    "endColumn": 67,
+                    "endOffset": 3525
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 2865,
+                        "endColumn": 67,
+                        "endOffset": 2928
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 3530,
+                    "endColumn": 44,
+                    "endOffset": 3570
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 546,
+                        "endColumn": 44,
+                        "endOffset": 586
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 3575,
+                    "endColumn": 46,
+                    "endOffset": 3617
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 591,
+                        "endColumn": 46,
+                        "endOffset": 633
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 3622,
+                    "endColumn": 50,
+                    "endOffset": 3668
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 444,
+                        "endColumn": 50,
+                        "endOffset": 490
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3673,
+                    "endColumn": 52,
+                    "endOffset": 3721
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 391,
+                        "endColumn": 52,
+                        "endOffset": 439
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 3726,
+                    "endColumn": 47,
+                    "endOffset": 3769
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 2672,
+                        "endColumn": 47,
+                        "endOffset": 2715
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 3774,
+                    "endColumn": 50,
+                    "endOffset": 3820
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 495,
+                        "endColumn": 50,
+                        "endOffset": 541
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 3825,
+                    "endColumn": 46,
+                    "endOffset": 3867
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 2720,
+                        "endColumn": 46,
+                        "endOffset": 2762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 3872,
+                    "endColumn": 44,
+                    "endOffset": 3912
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1328,
+                        "endColumn": 44,
+                        "endOffset": 1368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 3917,
+                    "endColumn": 44,
+                    "endOffset": 3957
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1373,
+                        "endColumn": 44,
+                        "endOffset": 1413
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 3962,
+                    "endColumn": 44,
+                    "endOffset": 4002
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1418,
+                        "endColumn": 44,
+                        "endOffset": 1458
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 4007,
+                    "endColumn": 44,
+                    "endOffset": 4047
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1463,
+                        "endColumn": 44,
+                        "endOffset": 1503
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 4052,
+                    "endColumn": 44,
+                    "endOffset": 4092
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1508,
+                        "endColumn": 44,
+                        "endOffset": 1548
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 4097,
+                    "endColumn": 44,
+                    "endOffset": 4137
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1553,
+                        "endColumn": 44,
+                        "endOffset": 1593
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 4142,
+                    "endColumn": 44,
+                    "endOffset": 4182
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1598,
+                        "endColumn": 44,
+                        "endOffset": 1638
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 4187,
+                    "endColumn": 44,
+                    "endOffset": 4227
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1643,
+                        "endColumn": 44,
+                        "endOffset": 1683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 4232,
+                    "endColumn": 44,
+                    "endOffset": 4272
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 1688,
+                        "endColumn": 44,
+                        "endOffset": 1728
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 4277,
+                    "endColumn": 44,
+                    "endOffset": 4317
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 1733,
+                        "endColumn": 44,
+                        "endOffset": 1773
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 4322,
+                    "endColumn": 54,
+                    "endOffset": 4372
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 2118,
+                        "endColumn": 54,
+                        "endOffset": 2168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 4377,
+                    "endColumn": 48,
+                    "endOffset": 4421
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 2069,
+                        "endColumn": 48,
+                        "endOffset": 2113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 4426,
+                    "endColumn": 56,
+                    "endOffset": 4478
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 2173,
+                        "endColumn": 56,
+                        "endOffset": 2225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 4483,
+                    "endColumn": 48,
+                    "endOffset": 4527
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 1924,
+                        "endColumn": 48,
+                        "endOffset": 1968
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 4532,
+                    "endColumn": 46,
+                    "endOffset": 4574
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 1973,
+                        "endColumn": 46,
+                        "endOffset": 2015
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 4579,
+                    "endColumn": 48,
+                    "endOffset": 4623
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2020,
+                        "endColumn": 48,
+                        "endOffset": 2064
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 4628,
+                    "endColumn": 51,
+                    "endOffset": 4675
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 2230,
+                        "endColumn": 51,
+                        "endOffset": 2277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 4680,
+                    "endColumn": 48,
+                    "endOffset": 4724
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 1826,
+                        "endColumn": 48,
+                        "endOffset": 1870
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 4729,
+                    "endColumn": 47,
+                    "endOffset": 4772
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 1778,
+                        "endColumn": 47,
+                        "endOffset": 1821
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 4777,
+                    "endColumn": 48,
+                    "endOffset": 4821
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 1875,
+                        "endColumn": 48,
+                        "endOffset": 1919
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 4826,
+                    "endColumn": 54,
+                    "endOffset": 4876
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1248,
+                        "endColumn": 54,
+                        "endOffset": 1298
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 4881,
+                    "endColumn": 45,
+                    "endOffset": 4922
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 831,
+                        "endColumn": 45,
+                        "endOffset": 872
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 4927,
+                    "endColumn": 49,
+                    "endOffset": 4972
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 121,
+                        "startColumn": 4,
+                        "startOffset": 5494,
+                        "endColumn": 49,
+                        "endOffset": 5539
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 4977,
+                    "endColumn": 41,
+                    "endOffset": 5014
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 4,
+                        "startOffset": 5275,
+                        "endColumn": 41,
+                        "endOffset": 5312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 5019,
+                    "endColumn": 54,
+                    "endOffset": 5069
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 118,
+                        "startColumn": 4,
+                        "startOffset": 5317,
+                        "endColumn": 54,
+                        "endOffset": 5367
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 5074,
+                    "endColumn": 50,
+                    "endOffset": 5120
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 4,
+                        "startOffset": 5443,
+                        "endColumn": 50,
+                        "endOffset": 5489
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 5125,
+                    "endColumn": 70,
+                    "endOffset": 5191
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 119,
+                        "startColumn": 4,
+                        "startOffset": 5372,
+                        "endColumn": 70,
+                        "endOffset": 5438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 5196,
+                    "endColumn": 47,
+                    "endOffset": 5239
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 122,
+                        "startColumn": 4,
+                        "startOffset": 5544,
+                        "endColumn": 47,
+                        "endOffset": 5587
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 5244,
+                    "endColumn": 45,
+                    "endOffset": 5285
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 125,
+                        "startColumn": 4,
+                        "startOffset": 5694,
+                        "endColumn": 45,
+                        "endOffset": 5735
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 5290,
+                    "endColumn": 53,
+                    "endOffset": 5339
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 124,
+                        "startColumn": 4,
+                        "startOffset": 5640,
+                        "endColumn": 53,
+                        "endOffset": 5689
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 5344,
+                    "endColumn": 47,
+                    "endOffset": 5387
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 123,
+                        "startColumn": 4,
+                        "startOffset": 5592,
+                        "endColumn": 47,
+                        "endOffset": 5635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 5392,
+                    "endColumn": 66,
+                    "endOffset": 5454
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 3738,
+                        "endColumn": 66,
+                        "endOffset": 3800
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 5459,
+                    "endColumn": 68,
+                    "endOffset": 5523
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 3669,
+                        "endColumn": 68,
+                        "endOffset": 3733
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 5528,
+                    "endColumn": 58,
+                    "endOffset": 5582
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 4,
+                        "startOffset": 3860,
+                        "endColumn": 58,
+                        "endOffset": 3914
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 5587,
+                    "endColumn": 58,
+                    "endOffset": 5641
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 957,
+                        "endColumn": 58,
+                        "endOffset": 1011
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 5646,
+                    "endColumn": 54,
+                    "endOffset": 5696
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 4,
+                        "startOffset": 3805,
+                        "endColumn": 54,
+                        "endOffset": 3855
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 5701,
+                    "endColumn": 54,
+                    "endOffset": 5751
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1016,
+                        "endColumn": 54,
+                        "endOffset": 1066
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 5756,
+                    "endColumn": 52,
+                    "endOffset": 5804
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 4,
+                        "startOffset": 4399,
+                        "endColumn": 52,
+                        "endOffset": 4447
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 5809,
+                    "endColumn": 51,
+                    "endOffset": 5856
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1097,
+                        "endColumn": 51,
+                        "endOffset": 1144
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 5861,
+                    "endColumn": 51,
+                    "endOffset": 5908
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 2620,
+                        "endColumn": 51,
+                        "endOffset": 2667
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 5913,
+                    "endColumn": 55,
+                    "endOffset": 5964
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 3383,
+                        "endColumn": 55,
+                        "endOffset": 3434
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 5969,
+                    "endColumn": 68,
+                    "endOffset": 6033
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 4059,
+                        "endColumn": 68,
+                        "endOffset": 4123
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 6038,
+                    "endColumn": 67,
+                    "endOffset": 6101
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 4128,
+                        "endColumn": 67,
+                        "endOffset": 4191
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 6106,
+                    "endColumn": 26,
+                    "endOffset": 6128
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 104,
+                        "endColumn": 34,
+                        "endOffset": 134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 6133,
+                    "endColumn": 50,
+                    "endOffset": 6179
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 906,
+                        "endColumn": 50,
+                        "endOffset": 952
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 6184,
+                    "endColumn": 41,
+                    "endOffset": 6221
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 4,
+                        "startOffset": 5155,
+                        "endColumn": 41,
+                        "endOffset": 5192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 6226,
+                    "endColumn": 41,
+                    "endOffset": 6263
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 114,
+                        "startColumn": 4,
+                        "startOffset": 5197,
+                        "endColumn": 41,
+                        "endOffset": 5234
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 6268,
+                    "endColumn": 67,
+                    "endOffset": 6331
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 3439,
+                        "endColumn": 67,
+                        "endOffset": 3502
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 6336,
+                    "endColumn": 76,
+                    "endOffset": 6408
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 674,
+                        "endColumn": 76,
+                        "endOffset": 746
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 6413,
+                    "endColumn": 48,
+                    "endOffset": 6457
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1149,
+                        "endColumn": 48,
+                        "endOffset": 1193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 6462,
+                    "endColumn": 62,
+                    "endOffset": 6520
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 4,
+                        "startOffset": 4881,
+                        "endColumn": 62,
+                        "endOffset": 4939
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 6525,
+                    "endColumn": 50,
+                    "endOffset": 6571
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 2522,
+                        "endColumn": 50,
+                        "endOffset": 2568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 6576,
+                    "endColumn": 50,
+                    "endOffset": 6622
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 2310,
+                        "endColumn": 50,
+                        "endOffset": 2356
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 6627,
+                    "endColumn": 59,
+                    "endOffset": 6682
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 2959,
+                        "endColumn": 59,
+                        "endOffset": 3014
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 6687,
+                    "endColumn": 54,
+                    "endOffset": 6737
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 2414,
+                        "endColumn": 54,
+                        "endOffset": 2464
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 6742,
+                    "endColumn": 52,
+                    "endOffset": 6790
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 2361,
+                        "endColumn": 52,
+                        "endOffset": 2409
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 6795,
+                    "endColumn": 52,
+                    "endOffset": 6843
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 2469,
+                        "endColumn": 52,
+                        "endOffset": 2517
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 6848,
+                    "endColumn": 50,
+                    "endOffset": 6894
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 4,
+                        "startOffset": 4247,
+                        "endColumn": 50,
+                        "endOffset": 4293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 6899,
+                    "endColumn": 100,
+                    "endOffset": 6995
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 4,
+                        "startOffset": 4298,
+                        "endColumn": 100,
+                        "endOffset": 4394
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 7000,
+                    "endColumn": 73,
+                    "endOffset": 7069
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 4452,
+                        "endColumn": 73,
+                        "endOffset": 4521
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 7074,
+                    "endColumn": 112,
+                    "endOffset": 7182
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 4,
+                        "startOffset": 4526,
+                        "endColumn": 112,
+                        "endOffset": 4634
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 7187,
+                    "endColumn": 49,
+                    "endOffset": 7232
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1198,
+                        "endColumn": 49,
+                        "endOffset": 1243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 7237,
+                    "endColumn": 58,
+                    "endOffset": 7291
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 4,
+                        "startOffset": 4758,
+                        "endColumn": 58,
+                        "endOffset": 4812
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 7296,
+                    "endColumn": 62,
+                    "endOffset": 7354
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 4,
+                        "startOffset": 3538,
+                        "endColumn": 62,
+                        "endOffset": 3596
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 7359,
+                    "endColumn": 66,
+                    "endOffset": 7421
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 3257,
+                        "endColumn": 66,
+                        "endOffset": 3319
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 7426,
+                    "endColumn": 64,
+                    "endOffset": 7486
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 3192,
+                        "endColumn": 64,
+                        "endOffset": 3252
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 7491,
+                    "endColumn": 54,
+                    "endOffset": 7541
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 3077,
+                        "endColumn": 54,
+                        "endOffset": 3127
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 7546,
+                    "endColumn": 54,
+                    "endOffset": 7596
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 4,
+                        "startOffset": 5047,
+                        "endColumn": 54,
+                        "endOffset": 5097
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 7601,
+                    "endColumn": 58,
+                    "endOffset": 7655
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 4,
+                        "startOffset": 4670,
+                        "endColumn": 58,
+                        "endOffset": 4724
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 7660,
+                    "endColumn": 43,
+                    "endOffset": 7699
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 225,
+                        "endColumn": 43,
+                        "endOffset": 264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 7704,
+                    "endColumn": 43,
+                    "endOffset": 7743
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 139,
+                        "endColumn": 43,
+                        "endOffset": 178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 7748,
+                    "endColumn": 41,
+                    "endOffset": 7785
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 183,
+                        "endColumn": 41,
+                        "endOffset": 220
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 7790,
+                    "endColumn": 47,
+                    "endOffset": 7833
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 269,
+                        "endColumn": 47,
+                        "endOffset": 312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 7838,
+                    "endColumn": 52,
+                    "endOffset": 7886
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 4,
+                        "startOffset": 5102,
+                        "endColumn": 52,
+                        "endOffset": 5150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 7891,
+                    "endColumn": 63,
+                    "endOffset": 7950
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 4,
+                        "startOffset": 4817,
+                        "endColumn": 63,
+                        "endOffset": 4876
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 7955,
+                    "endColumn": 67,
+                    "endOffset": 8018
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 3601,
+                        "endColumn": 67,
+                        "endOffset": 3664
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 8023,
+                    "endColumn": 59,
+                    "endOffset": 8078
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 3132,
+                        "endColumn": 59,
+                        "endOffset": 3187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 8083,
+                    "endColumn": 68,
+                    "endOffset": 8147
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 2767,
+                        "endColumn": 68,
+                        "endOffset": 2831
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 8152,
+                    "endColumn": 46,
+                    "endOffset": 8194
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 2573,
+                        "endColumn": 46,
+                        "endOffset": 2615
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 8199,
+                    "endColumn": 75,
+                    "endOffset": 8270
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 4,
+                        "startOffset": 4944,
+                        "endColumn": 75,
+                        "endOffset": 5015
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 8275,
+                    "endColumn": 50,
+                    "endOffset": 8321
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 4196,
+                        "endColumn": 50,
+                        "endOffset": 4242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 8326,
+                    "endColumn": 79,
+                    "endOffset": 8401
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 751,
+                        "endColumn": 79,
+                        "endOffset": 826
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 8406,
+                    "endLine": 150,
+                    "endColumn": 12,
+                    "endOffset": 8692
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 986,
+                        "endLine": 29,
+                        "endColumn": 12,
+                        "endOffset": 1272
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 8697,
+                    "endLine": 156,
+                    "endColumn": 12,
+                    "endOffset": 9021
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1541,
+                        "endLine": 42,
+                        "endColumn": 12,
+                        "endOffset": 1865
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 9026,
+                    "endLine": 163,
+                    "endColumn": 12,
+                    "endOffset": 9349
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 2216,
+                        "endLine": 57,
+                        "endColumn": 12,
+                        "endOffset": 2539
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 9354,
+                    "endColumn": 35,
+                    "endOffset": 9385
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 2545,
+                        "endColumn": 36,
+                        "endOffset": 2577
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 9390,
+                    "endLine": 170,
+                    "endColumn": 12,
+                    "endOffset": 9729
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 1871,
+                        "endLine": 49,
+                        "endColumn": 12,
+                        "endOffset": 2210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 171,
+                    "startColumn": 4,
+                    "startOffset": 9734,
+                    "endLine": 175,
+                    "endColumn": 12,
+                    "endOffset": 10010
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 704,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 980
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 10015,
+                    "endLine": 184,
+                    "endColumn": 12,
+                    "endOffset": 10488
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 225,
+                        "endLine": 15,
+                        "endColumn": 12,
+                        "endOffset": 698
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 185,
+                    "startColumn": 4,
+                    "startOffset": 10493,
+                    "endColumn": 104,
+                    "endOffset": 10593
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1396,
+                        "endColumn": 111,
+                        "endOffset": 1503
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 186,
+                    "startColumn": 4,
+                    "startOffset": 10598,
+                    "endColumn": 81,
+                    "endOffset": 10675
+                },
+                "from": {
+                    "file": "E:\\EasyAccounting_Android_Studio-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1306,
+                        "endColumn": 88,
+                        "endOffset": 1390
+                    }
+                }
+            }
+        ]
+    }
+]
